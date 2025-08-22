@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/ThreeFiles/">
+    <file alias="qml/ButtonStyle.qml">D:/qml/ThreeFiles/qml/ButtonStyle.qml</file>
+    <file alias="qml/Theme.qml">D:/qml/ThreeFiles/qml/Theme.qml</file>
+    <file alias="qml/Main.qml">D:/qml/ThreeFiles/qml/Main.qml</file>
+    <file alias="qml/qmldir">D:/qml/ThreeFiles/qml/qmldir</file>
+  </qresource>
+</RCC>
+

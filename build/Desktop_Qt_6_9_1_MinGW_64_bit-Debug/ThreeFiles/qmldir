@@ -1,0 +1,7 @@
+module ThreeFiles
+typeinfo appThreeFiles.qmltypes
+prefer :/qt/qml/ThreeFiles/
+ButtonStyle 1.0 qml/ButtonStyle.qml
+Theme 1.0 qml/Theme.qml
+Main 1.0 qml/Main.qml
+

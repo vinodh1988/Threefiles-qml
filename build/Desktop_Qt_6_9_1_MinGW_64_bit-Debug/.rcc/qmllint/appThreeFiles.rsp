@@ -1,0 +1,14 @@
+--bare
+-I
+D:/qml/ThreeFiles/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug
+-I
+D:/Qt/6.9.1/mingw_64/qml
+--resource
+D:/qml/ThreeFiles/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qmake_ThreeFiles.qrc
+--resource
+D:/qml/ThreeFiles/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/appThreeFiles_raw_qml_0.qrc
+--resource
+D:/qml/ThreeFiles/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/appThreeFiles_raw_qml_0_extra_qmldirs.qrc
+D:/qml/ThreeFiles/qml/ButtonStyle.qml
+D:/qml/ThreeFiles/qml/Theme.qml
+D:/qml/ThreeFiles/qml/Main.qml

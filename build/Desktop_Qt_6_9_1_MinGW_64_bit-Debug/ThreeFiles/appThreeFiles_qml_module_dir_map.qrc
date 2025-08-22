@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/ThreeFiles">D:/qml/ThreeFiles/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ThreeFiles</file>
+
+  </qresource>
+</RCC>

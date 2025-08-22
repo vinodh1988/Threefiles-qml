@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 450,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 11
+                    }
+                ],
+                "filePath": "D:/qml/ThreeFiles/Main.qml"
+            }
+        ],
+        "moduleId": "ThreeFiles(appThreeFiles)"
+    }
+]
